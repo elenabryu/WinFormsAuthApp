@@ -6,5 +6,6 @@
 *  Форма авторизации с полями логин/пароль.
 *  CAPTCHA для защиты от ботов.
 *  Главная форма с отображением информации об авторе.
-> [Изображение](https://www.google.ru/urlsa=i&url=https%3A%2F%2Fresult.school%2Froadmap%2Ffrontend%2Farticle%2Fgit&psig=AOvVaw0kyKVELbc24Un57ZuCkQVg&ust=1744353209656000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD44p7szIwDFQAAAAAdAAAAABAE)
+> ![Изображение](https://result.school/_next/image?url=https%3A%2F%2Fa6b9d8dc-b142-4b92-b1d0-dfbfd2230471.selstorage.ru%2Froadmap-article%2F1719478423328-git.png&w=3840&q=90)
+
 ~~Провал~~   *Успех!*
